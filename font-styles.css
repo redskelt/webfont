@@ -3,20 +3,20 @@
  font-family: 'BM JUA';
  font-weight: normal;
  font-style: normal;
- src: url('https://github.com/redskelt/webfont/blob/master/fonts/BMJUA_otf.otf') format('opentype'),
-	 		url('https://github.com/redskelt/webfont/blob/master/fonts/BMJUA_ttf.ttf') format('truetype');
+ src: url('./fonts/BMJUA_otf.otf') format('opentype'),
+	 		url('./fonts/BMJUA_ttf.ttf') format('truetype');
 }
 @font-face {
  font-family: 'BM HANNA';
  font-weight: normal;
  font-style: normal;
- src: url('https://github.com/redskelt/webfont/blob/master/fonts/BMHANNA_11yrs_otf.otf') format('opentype'),
-	 		url('https://github.com/redskelt/webfont/blob/master/fonts/BMHANNA_11yrs_ttf.ttf') format('truetype');
+ src: url('./fonts/BMHANNA_11yrs_otf.otf') format('opentype'),
+	 		url('./fonts/BMHANNA_11yrs_ttf.ttf') format('truetype');
 }
 @font-face {
  font-family: 'BM DOHYEON';
  font-weight: normal;
  font-style: normal;
- src: url('https://github.com/redskelt/webfont/blob/master/fonts/BMDOHYEON_otf.otf') format('opentype'),
-	 		url('https://github.com/redskelt/webfont/blob/master/fonts/BMDOHYEON_ttf.ttf') format('truetype');
+ src: url('./fonts/BMDOHYEON_otf.otf') format('opentype'),
+	 		url('./fonts/BMDOHYEON_ttf.ttf') format('truetype');
 }
